@@ -1,0 +1,5 @@
+D:\Tudo\Sistemas de Informação\5 Semestre\Topicos Avançados\ordenacao\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe
+D:\Tudo\Sistemas de Informação\5 Semestre\Topicos Avançados\ordenacao\Ordenacao\Ordenacao\bin\Debug\Ordenacao.pdb
+D:\Tudo\Sistemas de Informação\5 Semestre\Topicos Avançados\ordenacao\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csprojResolveAssemblyReference.cache
+D:\Tudo\Sistemas de Informação\5 Semestre\Topicos Avançados\ordenacao\Ordenacao\Ordenacao\obj\Debug\Ordenacao.exe
+D:\Tudo\Sistemas de Informação\5 Semestre\Topicos Avançados\ordenacao\Ordenacao\Ordenacao\obj\Debug\Ordenacao.pdb
