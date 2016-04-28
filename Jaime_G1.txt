@@ -1,0 +1,16 @@
+CVS: 0.5
+Resumo: 1.7
+Projeto: 6.7
+Nota G1: 8.9
+================
+Feedback Resumo
+================
+Não tem parágrafo 1,5 cm e espaçamento entre parágrafos de 0,5 cm.
+Diferenciou jogos e simuladores.
+Opinião poderia ser mais elaborada.
+====================
+Feedback Projeto
+====================
+Trabalho entregue corretamente dentro da pasta e repositório solicitados. No entanto, compactou o código dentro da pasta ordenacao e era para ter disponibilizado dentro da mesma pasta.
+Na parte da documentação dentro do código não explicou o quick e o shell sort.Tutorial muito bom. A explanação dos métodos de ordenação poderia ter sido um pouco mais detalhada. Figura do Shell Sort está com baixa resolução.
+
