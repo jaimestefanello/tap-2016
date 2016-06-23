@@ -1,0 +1,4 @@
+SleepingBus.MainActivity, SleepingBus;md5c90b770dee28ff6c433cd7e1fa056bb5.MainActivity
+SleepingBus.MainActivity, SleepingBus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c90b770dee28ff6c433cd7e1fa056bb5.MainActivity
+SleepingBus.MainActivity;md5c90b770dee28ff6c433cd7e1fa056bb5.MainActivity
+sleepingbus.MainActivity;md5c90b770dee28ff6c433cd7e1fa056bb5.MainActivity
