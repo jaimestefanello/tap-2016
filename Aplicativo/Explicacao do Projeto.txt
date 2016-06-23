@@ -1,0 +1,11 @@
+- Projeto criado usando o Xamarin.
+- O projeto tem por finalidade resolver a regra de 3 da seguinte forma:
+	O usuário coloca o valorx1;
+	O usuário coloca o valorx2;
+	O usuário coloca o valory1;
+	O usuário clica no botão "Calcular regra de 3";
+	O aplicativo faz a conta e coloca o resultado no campo valory2;
+
+- O Layout do projeto fica no seguinte local:
+	Resources > layout > Main.axml
+- Os códigos que fazem o aplicativo funcionar ficam na MainActivity.cs
