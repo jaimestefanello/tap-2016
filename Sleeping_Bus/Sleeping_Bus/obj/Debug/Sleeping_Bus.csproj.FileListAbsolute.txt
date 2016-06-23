@@ -1,0 +1,13 @@
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\bin\Debug\Sleeping_Bus.dll
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\bin\Debug\Sleeping_Bus.pdb
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\bin\Debug\Sleeping_Bus.Sleeping_Bus.apk
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\bin\Debug\Sleeping_Bus.Sleeping_Bus-Signed.apk
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\Sleeping_Bus.csprojResolveAssemblyReference.cache
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\Sleeping_Bus.dll
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\Sleeping_Bus.pdb
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\android\bin\Sleeping_Bus.Sleeping_Bus.apk
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\res\layout\main.xml
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\res\values\strings.xml
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\res\drawable\icon.png
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\R.cs.flag
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\uploadflags.txt

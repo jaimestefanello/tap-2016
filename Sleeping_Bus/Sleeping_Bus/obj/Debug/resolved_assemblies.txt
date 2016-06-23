@@ -1,0 +1,7 @@
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\assemblies\Sleeping_Bus.dll
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\assemblies\Mono.Android.dll
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\assemblies\mscorlib.dll
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\assemblies\System.Core.dll
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\assemblies\System.dll
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\assemblies\System.Xml.dll
+D:\Tudo\Sistemas_de_Informacao\Sleeping_Bus\Sleeping_Bus\obj\Debug\assemblies\System.Xml.Linq.dll
